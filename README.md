@@ -52,10 +52,8 @@ The simple_shell is designed to execute commands in a similar manner to sh, howe
 - [x] help
 - [x] history
 
-## Authors
-Amara Bamba | [GitHub](https://github.com/dev-amara)
-
-Régis-Marie YAPI  | [GitHub](https://github.com/Reydigital)
+## Author
+Aaron Nyaga - https://github.com/RonZoro11/simple_shell
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
